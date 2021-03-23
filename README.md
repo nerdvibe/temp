@@ -1,4 +1,6 @@
+---
 # foo!
+---
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
@@ -40,13 +42,13 @@ stores, social networks, code coverage services, and code analysis services.
 Every month it serves over 770 million images.
 
 This repo hosts:
-
+---
 - The [Shields.io][shields.io] frontend and server code
 - An [NPM library for generating badges][badge-maker]
   - [documentation][badge-maker-docs]
   - [changelog][badge-maker-changelog]
 - The [badge design specification][badge-spec]
-
+---
 [shields.io]: https://shields.io/
 [badge-maker]: https://www.npmjs.com/package/badge-maker
 [badge-spec]: https://github.com/badges/shields/tree/master/spec
