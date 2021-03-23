@@ -12,3 +12,6 @@ kramdown:
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   show_description: false # show blog description in home page
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
