@@ -1,4 +1,4 @@
-# beautiful title from md.!
+# beautiful title from md..!
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
